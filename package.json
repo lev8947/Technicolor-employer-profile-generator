@@ -1,0 +1,22 @@
+{
+  "name": "technicolor-employer-profile-generator",
+  "version": "1.0.0",
+  "description": "Employee profile generator project made with JS/node/json for UWA bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lev8947/Technicolor-employer-profile-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lev8947/Technicolor-employer-profile-generator/issues"
+  },
+  "homepage": "https://github.com/lev8947/Technicolor-employer-profile-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.3"
+  }
+}
