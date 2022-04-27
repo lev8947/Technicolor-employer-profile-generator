@@ -18,5 +18,8 @@
   "homepage": "https://github.com/lev8947/Technicolor-employer-profile-generator#readme",
   "dependencies": {
     "inquirer": "^8.2.3"
+  },
+  "devDependencies": {
+    "jest": "^28.0.1"
   }
 }
